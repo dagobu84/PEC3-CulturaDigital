@@ -6,11 +6,11 @@
 
 ## Introducción general
 
-Una vez analizados los múltiples casos de hibridación en el libro *El software toma el mando* (Manovich, 2013), este trabajo propone dos nuevos ejemplos que podrían integrarse perfectamente en una hipotética segunda edición de la obra. El objetivo es extender la visión de Manovich a fenómenos contemporáneos o significativos que evidencian la evolución del ordenador como metamedio, y cómo los principios del software están reconfigurando la estética, la narrativa y la lógica de los medios.
+A partir del análisis de diversos casos de hibridación en el libro *El software toma el mando* (Manovich, 2013), este trabajo propone dos nuevos ejemplos que podrían integrarse perfectamente en una hipotética segunda edición de la obra. El propósito es ampliar la mirada propuesta por Manovich hacia otros fenómenos culturales y tecnológicos que evidencian la evolución del ordenador como metamedio, así como su capacidad para transformar los lenguajes y las estructuras narrativas tradicionales.
 
-La elección y análisis de los casos se ha hecho desde una perspectiva crítica y narrativa, aplicando los conceptos de mutación, hibridación técnica, interfaz, lógica de software y estética digital. Además, este ensayo se ha desarrollado siguiendo una filosofía de cultura compartida, inspirada en las dinámicas de desarrollo colaborativo del software libre y el uso de plataformas abiertas como GitHub, donde la redacción en formato Markdown permite construir conocimiento de forma distribuida y accesible.
+El análisis se ha desarrollado aplicando conceptos clave como mutación, hibridación técnica, estética digital, interfaz y lógica de software. Además, la elaboración del documento se alinea con una filosofía de conocimiento compartido, inspirada en el desarrollo colaborativo del software libre y en entornos abiertos como GitHub, donde el uso del lenguaje Markdown permite estructurar ensayos hipermedia accesibles y reutilizables.
 
-Este enfoque no solo refleja el contenido del análisis, sino también su forma: escribir en red, compartir ideas y licenciar bajo Creative Commons es parte del proceso de construcción cultural del siglo XXI, del mismo modo que lo fue el crowdsourcing en la creación de proyectos complejos como Linux. Los casos aquí expuestos representan, por tanto, tanto una aportación teórica como una práctica de producción digital abierta.
+Este enfoque no solo refleja el contenido del análisis, sino también su forma: escribir en red, compartir ideas y licenciar bajo Creative Commons es parte del proceso de construcción cultural del siglo XXI. Los casos aquí expuestos representan, tanto una aportación teórica como una práctica de producción digital abierta.
 
 ---
 
