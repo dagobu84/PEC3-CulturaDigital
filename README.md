@@ -1,10 +1,10 @@
 # PEC3 – Manovich Reloaded  
-**Autor/a:** [Tu nombre]  
-**Asignatura:** Tecnocultura, Arte y Narrativas Audiovisuales  
+**Autor/a:** David González Bustamante  
+**Asignatura:** Cultura digital  
 
 ---
 
-## 🧠 Introducción general
+## Introducción general
 
 Una vez analizados los múltiples casos de hibridación en el libro *El software toma el mando* (Manovich, 2013), este trabajo propone dos nuevos ejemplos que podrían integrarse perfectamente en una hipotética segunda edición de la obra. El objetivo es extender la visión de Manovich a fenómenos contemporáneos o significativos que evidencian la evolución del ordenador como metamedio, y cómo los principios del software están reconfigurando la estética, la narrativa y la lógica de los medios.
 
@@ -14,9 +14,9 @@ Este enfoque no solo refleja el contenido del análisis, sino también su forma:
 
 ---
 
-## 🕹️ Caso 1: *Dragon Ball Z: Kakarot* (Bandai Namco, 2020)
+## Caso 1: *Dragon Ball Z: Kakarot* (Bandai Namco, 2020)
 
-### 🌐 Descripción del caso
+### Descripción del caso
 
 *Dragon Ball Z: Kakarot* es un videojuego de rol y acción lanzado en 2020 por Bandai Namco para PlayStation 4, Xbox One y PC. Basado en el universo del mítico anime *Dragon Ball Z*, el juego ofrece una experiencia interactiva que mezcla combates en tiempo real, exploración tipo mundo abierto y escenas narrativas que replican fielmente el estilo y contenido de la serie original.
 
@@ -24,7 +24,7 @@ A través del uso de gráficos cel-shading, que imitan el trazo y la textura del
 
 ---
 
-### 🔍 Análisis de hibridación mediática (con “las gafas de Manovich”)
+### Análisis de hibridación mediática (con “las gafas de Manovich”)
 
 Siguiendo la teoría de Lev Manovich (2013), el ordenador como metamedio permite la fusión de técnicas de medios anteriores en nuevas formas digitales. *Kakarot* es un ejemplo de esa hibridación avanzada, donde múltiples medios se reconfiguran como software.
 
@@ -38,7 +38,7 @@ Siguiendo la teoría de Lev Manovich (2013), el ordenador como metamedio permite
 
 ---
 
-### 💡 Reflexión final
+### Reflexión final
 
 *Dragon Ball Z: Kakarot* no es simplemente un juego basado en un anime: es una experiencia híbrida en la que conviven el lenguaje del manga japonés, la estructura narrativa del cine y la lógica procedural del videojuego. Es un ejemplo maduro de hibridación mediática en la era del software, donde la distinción entre medios tradicionales (televisión, cómic, cine) pierde sentido ante un nuevo entorno digital integrado.
 
@@ -46,9 +46,9 @@ Este juego representa claramente cómo el ordenador ha dejado de ser solo un med
 
 ---
 
-## 🎬 Caso 2: *Space Jam* (Joe Pytka, 1996)
+## Caso 2: *Space Jam* (Joe Pytka, 1996)
 
-### 🌐 Descripción del caso
+### Descripción del caso
 
 La película *Space Jam*, estrenada en 1996 y protagonizada por Michael Jordan junto a los personajes animados de Looney Tunes, se convirtió en un fenómeno cultural. Dirigida por Joe Pytka y producida por Warner Bros., la cinta no solo combinaba animación 2D con imagen real, sino que representaba un punto de inflexión en la hibridación mediática. La interacción fluida entre actores reales y personajes animados no era solo un recurso estético, sino una estrategia técnica, narrativa y simbólica que marcaba una nueva forma de entender el cine comercial. 
 
@@ -56,7 +56,7 @@ Además, *Space Jam* formó parte de una estrategia transmedia pionera que inclu
 
 ---
 
-### 🔍 Análisis de hibridación mediática (con “las gafas de Manovich”)
+### Análisis de hibridación mediática (con “las gafas de Manovich”)
 
 Según Lev Manovich (2013), la hibridación ocurre cuando las técnicas, interfaces y lógicas propias de distintos medios se fusionan para generar nuevas formas de representación. Aunque *Space Jam* precede al auge del ordenador como metamedio plenamente desarrollado, ya anticipa muchos de los rasgos que Manovich identifica como señales de hibridación mediática:
 
@@ -70,7 +70,7 @@ Según Lev Manovich (2013), la hibridación ocurre cuando las técnicas, interfa
 
 ---
 
-### 💡 Reflexión final
+### Reflexión final
 
 *Space Jam* fue una de las primeras películas comerciales que propuso un mundo visual híbrido entre lo animado y lo real, no como truco visual puntual, sino como universo coherente. Aunque hoy sus efectos puedan parecer rudimentarios, en 1996 representaba una **nueva forma de representación mediática**, basada en tecnologías digitales emergentes. En este sentido, el filme anticipa —sin saberlo— lo que Manovich más tarde definiría como una evolución del metamedio ordenador: cuando las técnicas de diferentes medios son convertidas en elementos de software combinables.
 
@@ -78,7 +78,7 @@ Su legado no está solo en su estética pop, sino en cómo sembró la semilla de
 
 ---
 
-## 📚 Bibliografía
+## Bibliografía
 
 - Manovich, L. (2013). *El software toma el mando*. Ediciones Cátedra.  
 - Manovich, L. (2007). *Understanding Hybrid Media*. http://manovich.net/content/04-projects/055-understanding-hybrid-media/52_article_2007.pdf  
