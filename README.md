@@ -47,6 +47,7 @@ Este juego representa claramente cómo el ordenador ha dejado de ser solo un med
 ---
 
 ## Caso 2: *Space Jam* (Joe Pytka, 1996)
+![Descripción de la imagen](spacejam.jpg)
 
 ### Descripción del caso
 
