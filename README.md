@@ -15,6 +15,7 @@ Este enfoque no solo refleja el contenido del análisis, sino también su forma:
 ---
 
 ## Caso 1: *Dragon Ball Z: Kakarot* (Bandai Namco, 2020)
+![Descripción de la imagen](kakarot.png)
 
 ### Descripción del caso
 
