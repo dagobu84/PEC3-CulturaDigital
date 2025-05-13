@@ -14,7 +14,7 @@ Este enfoque no solo refleja el contenido del análisis, sino también su forma:
 
 ---
 
-## Caso 1: *Dragon Ball Z: Kakarot* (Bandai Namco, 2020)
+## Caso 1: *Dragon Ball Z: Kakarot*
 ![Descripción de la imagen](kakarot.png)
 
 ### Descripción del caso
@@ -35,7 +35,7 @@ Siguiendo la teoría de Lev Manovich (2013), el ordenador como metamedio permite
 
 - **Interfaz compuesta:** El HUD del juego (barras de energía, menús de misiones, sistema de combos) se integra visual y funcionalmente en la estética del anime. La interfaz no es ajena al mundo narrativo, sino que forma parte del lenguaje visual de la obra, difuminando la frontera entre representación y control del usuario.
 
-- **Manipulación de datos como motor de experiencia:** El juego gestiona y transforma grandes volúmenes de datos —estadísticas de combate, progresión de habilidades, eventos narrativos— que configuran una experiencia personalizada para cada jugador. Aquí se evidencia el paso al tercer nivel de Manovich: la lógica del software como medio que articula y reconfigura otros medios.
+- **Manipulación de datos como motor de experiencia:** El juego gestiona y transforma grandes volúmenes de datos (estadísticas de combate, progresión de habilidades, eventos narrativos) que configuran una experiencia personalizada para cada jugador. Aquí se evidencia el paso al tercer nivel de Manovich: la lógica del software como medio que articula y reconfigura otros medios.
 
 ---
 
@@ -47,14 +47,14 @@ Este juego representa claramente cómo el ordenador ha dejado de ser solo un med
 
 ---
 
-## Caso 2: *Space Jam* (Joe Pytka, 1996)
+## Caso 2: *Space Jam*
 ![Descripción de la imagen](spacejam.jpg)
 
 ### Descripción del caso
 
-La película *Space Jam*, estrenada en 1996 y protagonizada por Michael Jordan junto a los personajes animados de Looney Tunes, se convirtió en un fenómeno cultural. Dirigida por Joe Pytka y producida por Warner Bros., la cinta no solo combinaba animación 2D con imagen real, sino que representaba un punto de inflexión en la hibridación mediática. La interacción fluida entre actores reales y personajes animados no era solo un recurso estético, sino una estrategia técnica, narrativa y simbólica que marcaba una nueva forma de entender el cine comercial. 
+La película *Space Jam*, estrenada en 1996 y protagonizada por Michael Jordan junto a los personajes animados de Looney Tunes, se convirtió en un fenómeno cultural. Dirigida por Joe Pytka y producida por Warner Bros, la pelicula no solo combinaba animación 2D con imagen real, sino que representaba un punto de inflexión en la hibridación mediática. La interacción fluida entre actores reales y personajes animados no era solo un recurso estético, sino una estrategia técnica, narrativa y simbólica que marcaba una nueva forma de entender el cine comercial. 
 
-Además, *Space Jam* formó parte de una estrategia transmedia pionera que incluía videojuegos, campañas publicitarias, juguetes y, muy especialmente, una de las primeras webs promocionales en la historia del cine, aún disponible en línea como reliquia de la era primitiva de internet.
+Además, *Space Jam* formó parte de una estrategia pionera que incluía videojuegos, campañas publicitarias, juguetes y, muy especialmente, una de las primeras webs promocionales en la historia del cine, aún disponible en línea como reliquia de la era primitiva de internet.
 
 ---
 
@@ -74,7 +74,7 @@ Según Lev Manovich (2013), la hibridación ocurre cuando las técnicas, interfa
 
 ### Conclusión
 
-Space Jam fue una de las primeras películas comerciales que propuso un mundo visual híbrido entre lo animado y lo real, no como truco visual puntual, sino como universo coherente. Aunque hoy sus efectos puedan parecer rudimentarios, en 1996 representaba una nueva forma de representación mediática, basada en tecnologías digitales emergentes. En este sentido, el filme anticipa —sin saberlo— lo que Manovich más tarde definiría como una evolución del metamedio ordenador: cuando las técnicas de diferentes medios son convertidas en elementos de software combinables.
+Space Jam fue una de las primeras películas comerciales que propuso un mundo visual híbrido entre lo animado y lo real, no como truco visual puntual, sino como universo coherente. Aunque hoy sus efectos puedan parecer rudimentarios, en 1996 representaba una nueva forma de representación mediática, basada en tecnologías digitales emergentes. En este sentido, el filme anticipa sin saberlo, lo que Manovich más tarde definiría como una evolución del metamedio ordenador: cuando las técnicas de diferentes medios son convertidas en elementos de software combinables.
 
 Su legado no está solo en su estética pop, sino en cómo sembró la semilla de un lenguaje visual nuevo, capaz de mezclar sin costuras lo virtual y lo físico. En una hipotética segunda edición de *El software toma el mando*, Space Jam tendría su lugar como caso pionero de hibridación digital en la era pre-Google.
 
@@ -91,4 +91,3 @@ Su legado no está solo en su estética pop, sino en cómo sembró la semilla de
 - Xataka (2021). *El sitio web de Space Jam sigue en línea desde 1996*. https://www.xataka.com/
 
 ---
-
