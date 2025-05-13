@@ -38,7 +38,7 @@ Siguiendo la teoría de Lev Manovich (2013), el ordenador como metamedio permite
 
 ---
 
-### Reflexión final
+### Conclusión
 
 *Dragon Ball Z: Kakarot* no es simplemente un juego basado en un anime: es una experiencia híbrida en la que conviven el lenguaje del manga japonés, la estructura narrativa del cine y la lógica procedural del videojuego. Es un ejemplo maduro de hibridación mediática en la era del software, donde la distinción entre medios tradicionales (televisión, cómic, cine) pierde sentido ante un nuevo entorno digital integrado.
 
@@ -70,7 +70,7 @@ Según Lev Manovich (2013), la hibridación ocurre cuando las técnicas, interfa
 
 ---
 
-### Reflexión final
+### Conclusión
 
 Space Jam fue una de las primeras películas comerciales que propuso un mundo visual híbrido entre lo animado y lo real, no como truco visual puntual, sino como universo coherente. Aunque hoy sus efectos puedan parecer rudimentarios, en 1996 representaba una nueva forma de representación mediática, basada en tecnologías digitales emergentes. En este sentido, el filme anticipa —sin saberlo— lo que Manovich más tarde definiría como una evolución del metamedio ordenador: cuando las técnicas de diferentes medios son convertidas en elementos de software combinables.
 
